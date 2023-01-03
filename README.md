@@ -24,9 +24,14 @@
 ## I am Mert Can Biçici
 
 - Front-end developer at [Bitexen](https://www.bitexen.com/)
-- Loves a freshly brewed cup of coffee
+- Self taught developer
 
-### My GitHub Stats
+## Languages and Tools
+
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,react,nextjs)](https://www.linkedin.com/in/mrtcnbcc/)
+
+
+## My GitHub Stats
 
 <p align="left">
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mrtcnbcc&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" /></a>
