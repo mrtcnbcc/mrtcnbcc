@@ -23,7 +23,7 @@
 
 ## I am Mert Can Biçici
 
-- Front-end developer at [Bitexen](https://www.bitexen.com/)
+- Front-end developer
 - Self taught developer
 
 ## Languages and Tools
